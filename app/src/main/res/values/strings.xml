@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Morning Simple Calculator</string>
+    <string name="tv_title_txt"><u>Simple Calculator</u></string>
+    <string name="Answer"><u>0.00</u></string>
+</resources>
